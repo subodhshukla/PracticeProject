@@ -8,7 +8,7 @@ public class TestNGListener implements ITestListener {
 
     @Override
     public void onTestStart(ITestResult result) {
-        System.out.println("****************Test Started : "+result.getName());
+        System.out.println("*****Test Started : "+result.getName());
     }
 
     @Override
