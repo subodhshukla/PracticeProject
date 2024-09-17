@@ -26,6 +26,7 @@ public class TestingRunClassSecond {
        htmlreport=new ExtentSparkReporter("ExtentReport.html");
         extent=new ExtentReports();
         extent.attachReporter(htmlreport);
+        System.out.println("Jenkins integrated");
 
     }
     @BeforeTest
