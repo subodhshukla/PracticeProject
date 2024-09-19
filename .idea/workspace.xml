@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4fdc065-a229-433d-a984-84188103449d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestingPackage/TestingRunClassSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestingPackage/TestingRunClassSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RunManager" selected="TestNG.D:/subodh/subodh_Spar/PracticeProject/src/test/java/TestingPackage/testng.xml">
     <configuration name="PracticeProject [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
@@ -120,6 +120,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="499" y="156" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1724938085898" />
+    <state x="548" y="164" key="FileChooserDialogImpl" timestamp="1726749846287">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="548" y="164" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1726749846287" />
     <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1726075025367">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -152,10 +156,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1342" height="239" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1724248552164" />
-    <state x="465" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1726581798231">
+    <state x="277" y="52" key="SettingsEditor" timestamp="1726753033465">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="465" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1726581798231" />
+    <state x="277" y="52" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1726753033465" />
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1726748343549">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1726748343549" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -169,6 +177,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PracticeProject$D__subodh_subodh_Spar_PracticeProject_src_test_java_TestingPackage_testng_xml.ic" NAME="$PROJECT_DIR$/src/test/java/TestingPackage/testng.xml Coverage Results" MODIFIED="1723806225954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/PracticeProject$D__subodh_subodh_Spar_PracticeProject_src_test_java_TestingPackage_testng_xml.ic" NAME="$PROJECT_DIR$/src/test/java/TestingPackage/testng.xml Coverage Results" MODIFIED="1726748383375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
