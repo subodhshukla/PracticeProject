@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4fdc065-a229-433d-a984-84188103449d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,10 +156,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1342" height="239" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1724248552164" />
-    <state x="277" y="52" key="SettingsEditor" timestamp="1726753033465">
+    <state x="277" y="52" key="SettingsEditor" timestamp="1726836532345">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="277" y="52" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1726753033465" />
+    <state x="277" y="52" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1726836532345" />
     <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1726767731172">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
