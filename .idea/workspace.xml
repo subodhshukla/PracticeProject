@@ -4,6 +4,7 @@
     <list default="true" id="c4fdc065-a229-433d-a984-84188103449d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,22 +125,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="548" y="164" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1726749846287" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1726766368489">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1726771154876">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1726766368489" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1726766368489">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1726771154876" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1726771154876">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1726766368489" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1726766368474">
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1726771154876" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1726771154876">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1726766368474" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1726766368489">
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1726771154876" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1726771154876">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1726766368489" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1726771154876" />
     <state width="1342" height="239" key="GridCell.Tab.1.bottom" timestamp="1724248552164">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -160,10 +161,18 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="277" y="52" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1726753033465" />
-    <state x="465" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1726748343549">
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1726767731172">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="465" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1726748343549" />
+    <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1726767731172" />
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1726835982376">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1726835982376" />
+    <state x="339" y="201" key="git4idea.merge.GitPullDialog" timestamp="1726767753087">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="339" y="201" key="git4idea.merge.GitPullDialog/0.0.1536.816@0.0.1536.816" timestamp="1726767753087" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
