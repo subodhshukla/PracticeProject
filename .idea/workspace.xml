@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4fdc065-a229-433d-a984-84188103449d" name="Default Changelist" comment="" />
+    <list default="true" id="c4fdc065-a229-433d-a984-84188103449d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,26 +121,26 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="499" y="156" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1724938085898" />
-    <state x="548" y="164" key="FileChooserDialogImpl" timestamp="1726836740924">
+    <state x="548" y="164" key="FileChooserDialogImpl" timestamp="1726837060398">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="548" y="164" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1726836740924" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1726771154876">
+    <state x="548" y="164" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1726837060398" />
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1726836959405">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1726771154876" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1726771154876">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1726836959405" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1726836959405">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1726771154876" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1726771154876">
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1726836959405" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1726836959405">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1726771154876" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1726771154876">
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1726836959405" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1726836959405">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1726771154876" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1726836959405" />
     <state width="1342" height="239" key="GridCell.Tab.1.bottom" timestamp="1724248552164">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -153,10 +157,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1342" height="239" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1724248552164" />
-    <state x="277" y="52" key="SettingsEditor" timestamp="1726836746161">
+    <state x="277" y="52" key="SettingsEditor" timestamp="1726837083075">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="277" y="52" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1726836746161" />
+    <state x="277" y="52" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1726837083075" />
     <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1726767731172">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
