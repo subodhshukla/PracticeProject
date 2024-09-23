@@ -6,9 +6,10 @@
          </listeners>
           <test name="MyTest">
         <classes>
-            <class name="TestingPackage.TestingRunClassSecond"/>
+           <!-- <class name="TestingPackage.TestingRunClassSecond"/>-->
            <!-- <class name="TestingPackage.TestingRunClassManualTab"/>-->
             <!-- Add more classes if needed -->
+            <class name="TestingPackage.TestClass"/>
         </classes>
     </test>
 </suite>
