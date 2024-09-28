@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestingPackage.TestingRunClassSecond" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-09-24T14:15:15" hostname="DESKTOP-42KN1G2" time="4.478">
+  <properties/>
+  <testcase name="enterDetails[0](Tester1, #50)" classname="TestingPackage.TestingRunClassSecond" time="1.117"/>
+  <testcase name="enterDetails[1](Tester2, #45)" classname="TestingPackage.TestingRunClassSecond" time="1.084"/>
+  <testcase name="enterDetails[2](Tester3, #55)" classname="TestingPackage.TestingRunClassSecond" time="1.096"/>
+  <testcase name="enterDetails[3](Tester4, #60)" classname="TestingPackage.TestingRunClassSecond" time="1.093"/>
+  <testcase name="selectYourGenderAndTestingType" classname="TestingPackage.TestingRunClassSecond" time="0.05"/>
+  <testcase name="manageAlertPupupWindow" classname="TestingPackage.TestingRunClassSecond" time="0.036"/>
+  <system-out><![CDATA[Page Title :Sample Webpage for Selenium Automation Practice | ArtOfTesting
+This is executed before Class
+*****Test Started : enterDetails
+****************Test passed : enterDetails
+*****Test Started : enterDetails
+****************Test passed : enterDetails
+*****Test Started : enterDetails
+****************Test passed : enterDetails
+*****Test Started : enterDetails
+****************Test passed : enterDetails
+*****Test Started : selectYourGenderAndTestingType
+****************Test passed : selectYourGenderAndTestingType
+*****Test Started : manageAlertPupupWindow
+****************Test passed : manageAlertPupupWindow
+]]></system-out>
+  <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
+SLF4J(W): Defaulting to no-operation (NOP) logger implementation
+SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
+Sept 24, 2024 7:45:13 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 129, returning the closest version; found: 125; Please update to a Selenium version that supports CDP version 129
+]]></system-err>
+</testsuite>

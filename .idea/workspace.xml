@@ -2,15 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4fdc065-a229-433d-a984-84188103449d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/BaseClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/ElementActionClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/ElementActionClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/ExcelUtilClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/ExcelUtilClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/HomePageSecond.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/HomePageSecond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/ManualTabPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/ManualTabPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/TestNGListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/TestNGListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/TestingPackage/TestingRunClassManualTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/TestingPackage/TestingRunClassManualTab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/TestingPackage/TestingRunClassSecond.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/TestingPackage/TestingRunClassSecond.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +118,25 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.D:/subodh/subodh_Spar/PracticeProject/src/test/resources/testng.xml">
+    <configuration name="PracticeProject [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="PracticeProject [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -147,6 +199,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.D:/subodh/subodh_Spar/PracticeProject/src/test/resources/testng.xml" />
+        <item itemvalue="Gradle.PracticeProject [build]" />
         <item itemvalue="Gradle.TestClass" />
         <item itemvalue="TestNG.D:/subodh/subodh_Spar/PracticeProject/src/test/java/TestingPackage/testng.xml" />
         <item itemvalue="Gradle.PracticeProject [clean]" />
@@ -175,22 +228,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="548" y="164" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1726837060398" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1727112762830">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1727528393815">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1727112762830" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1727112762830">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1727528393815" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1727528393815">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1727112762830" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1727112762830">
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1727528393815" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1727528393815">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1727112762830" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1727112762830">
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1727528393815" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1727528393815">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1727112762830" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1727528393815" />
     <state width="1342" height="239" key="GridCell.Tab.1.bottom" timestamp="1724248552164">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -207,18 +260,18 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state width="1342" height="239" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1724248552164" />
-    <state x="277" y="52" key="SettingsEditor" timestamp="1726837083075">
+    <state x="277" y="52" key="SettingsEditor" timestamp="1727185557331">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="277" y="52" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1726837083075" />
+    <state x="277" y="52" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1727185557331" />
     <state x="361" y="142" key="Vcs.Push.Dialog.v2" timestamp="1726767731172">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1726767731172" />
-    <state x="465" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1727089244799">
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1727528318504">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="465" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1727089244799" />
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1727528318504" />
     <state x="339" y="201" key="git4idea.merge.GitPullDialog" timestamp="1726767753087">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
