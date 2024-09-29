@@ -4,6 +4,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
 
@@ -30,7 +31,9 @@ public class HomePageSecond extends BaseClass {
                 //***Below statement used instead of "System.setProperty()"
                 System.setProperty("webdriver.chrome.driver","D:/subodh/subodh_Spar/Software/Driver/chromedriver-win64/chromedriver-win64/chromedriver.exe");
                 // WebDriverManager.chromedriver().setup();
-                driver=new ChromeDriver();
+                ChromeOptions options = new ChromeOptions();
+                options.addArguments("--headless");
+                driver=new ChromeDriver(options);
                 //action = new Actions(driver);
                 driver.manage().window().maximize();
                 driver.manage().deleteAllCookies();
