@@ -29,12 +29,13 @@ public class HomePageSecond extends BaseClass {
         if(driver == null) {
             if (Browser.contains("Chrome")){
                 //***Below statement used instead of "System.setProperty()"
-                System.setProperty("webdriver.chrome.driver","D:/subodh/subodh_Spar/Software/Driver/chromedriver-win64/chromedriver-win64/chromedriver.exe");
-                // WebDriverManager.chromedriver().setup();
+                 WebDriverManager.chromedriver().setup();
+                /*System.setProperty("webdriver.chrome.driver","D:/subodh/subodh_Spar/Software/Driver/chromedriver-win64/chromedriver-win64/chromedriver.exe");
                 ChromeOptions options = new ChromeOptions();
                 options.setBinary("D:/subodh/subodh_Spar/Software/GoogleChrome/Google_Chrome_(64bit)_v129.0.6668.71.exe");
                 options.addArguments("--headless");
-                driver=new ChromeDriver(options);
+                driver=new ChromeDriver(options);*/
+                driver=new ChromeDriver();
                 //action = new Actions(driver);
                 driver.manage().window().maximize();
                 driver.manage().deleteAllCookies();
