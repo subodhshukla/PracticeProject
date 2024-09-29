@@ -32,6 +32,7 @@ public class HomePageSecond extends BaseClass {
                 System.setProperty("webdriver.chrome.driver","D:/subodh/subodh_Spar/Software/Driver/chromedriver-win64/chromedriver-win64/chromedriver.exe");
                 // WebDriverManager.chromedriver().setup();
                 ChromeOptions options = new ChromeOptions();
+                options.setBinary("D:/subodh/subodh_Spar/Software/GoogleChrome/Google_Chrome_(64bit)_v129.0.6668.71.exe");
                 options.addArguments("--headless");
                 driver=new ChromeDriver(options);
                 //action = new Actions(driver);
