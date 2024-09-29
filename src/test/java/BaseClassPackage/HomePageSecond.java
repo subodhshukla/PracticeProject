@@ -28,7 +28,8 @@ public class HomePageSecond extends BaseClass {
         if(driver == null) {
             if (Browser.contains("Chrome")){
                 //***Below statement used instead of "System.setProperty()"
-                WebDriverManager.chromedriver().setup();
+                System.setProperty("webdriver.chrome.driver","D:/subodh/subodh_Spar/Software/Driver/chromedriver-win64/chromedriver-win64/chromedriver.exe");
+                // WebDriverManager.chromedriver().setup();
                 driver=new ChromeDriver();
                 //action = new Actions(driver);
                 driver.manage().window().maximize();
