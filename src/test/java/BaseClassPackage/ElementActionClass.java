@@ -67,6 +67,7 @@ public class ElementActionClass{
         Actions actions = new Actions(driver);
         WebElement menuOption= driver.findElement(By.xpath(prop.getProperty(menu)));
         actions.moveToElement(menuOption).perform();
+        Thread.sleep(2000);
 
 
     }
