@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c4fdc065-a229-433d-a984-84188103449d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseClassPackage/HomePageSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseClassPackage/HomePageSecond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,10 +229,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="361" y="142" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1726767731172" />
-    <state x="465" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1727631482882">
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1727679491086">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="465" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1727631482882" />
+    <state x="465" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1727679491086" />
     <state x="339" y="201" key="git4idea.merge.GitPullDialog" timestamp="1726767753087">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
