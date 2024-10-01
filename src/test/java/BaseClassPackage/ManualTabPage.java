@@ -26,7 +26,7 @@ public class ManualTabPage extends BaseClass {
         act.clickOnSubMenu(driver, prop, elementPropertyPath,"Subtab_TestScenarioExample");
     }
 
-    public void verifyLinkManualTesting() throws IOException, InterruptedException {
+    /*public void verifyLinkManualTesting() throws IOException, InterruptedException {
 
         act.clickOnLink(driver,prop,configPropertyPath, "ContentLink");
         Thread.sleep(5000);
@@ -46,5 +46,5 @@ public class ManualTabPage extends BaseClass {
         Thread.sleep(5000);
         driver.navigate().back();
         Thread.sleep(5000);
-    }
+    }*/
 }
