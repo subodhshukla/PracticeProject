@@ -41,15 +41,8 @@ public class ManualTabPage extends BaseClass {
 
         act.clickOnLink(driver,prop,configPropertyPath, "TestScenariosofATMMachine");
         Thread.sleep(5000);
-        //if(driver.findElement(By.xpath("//*[@id=\"dismiss-button\"]/div/span")).isDisplayed()){
-            driver.switchTo().frame(driver.findElement(By.id("ad_iframe")));
-            driver.switchTo().alert().dismiss();
-        //}
         act.clickOnLink(driver,prop,configPropertyPath, "TestScenariosofDoor");
-      //  if(driver.findElement(By.xpath("//*[@id=\"dismiss-button\"]/div/span")).isDisplayed()){
-            driver.switchTo().frame(driver.findElement(By.id("ad_iframe")));
-            driver.switchTo().alert().dismiss();
-        //}
+
         Thread.sleep(5000);
         driver.navigate().back();
         Thread.sleep(5000);
