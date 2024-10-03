@@ -25,7 +25,7 @@ public class TestingRunClassManualTab {
         mp.navigateToManualMenu();
         mp.navigateToSubMenu_WhatIsManualTesting();
     }
-   /* @Test(priority = 2)
+  /*  @Test(priority = 2)
     public void verifyManualTabLink() throws IOException, InterruptedException {
         mp.verifyLinkManualTesting();
 
@@ -39,8 +39,8 @@ public class TestingRunClassManualTab {
     public void verifyTestScenarioExampleLink() throws IOException, InterruptedException {
         mp.verifyLinkScenarioExample();
 
-    }*/
-
+    }
+*/
     @AfterClass
     public void closeBrowser () {
         hp.closeWebDriver();
