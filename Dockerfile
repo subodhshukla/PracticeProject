@@ -23,7 +23,7 @@ COPY src ./src
 RUN gradle build --no-daemon
 
 # Step 7: Use a smaller base image to run the tests
-FROM openjdk:21-jre-slim
+FROM openjdk:21-slim
 WORKDIR /app
 
 # Step 8: Copy the built application from the builder
