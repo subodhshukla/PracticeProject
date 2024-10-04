@@ -2,35 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4fdc065-a229-433d-a984-84188103449d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/checksums/md5-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/checksums/sha1-checksums.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/dependencies-accessors/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/resourceHashesCache.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.3/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/HomePageSecond.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/HomePageSecond.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/ManualTabPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/BaseClassPackage/ManualTabPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/TestingPackage/TestingRunClassManualTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/TestingPackage/TestingRunClassManualTab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/libs/PracticeProject-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/PracticeProject-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/ElementActionClass.class.uniqueId3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/HomePageSecond.class.uniqueId2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/ManualTabPage.class.uniqueId4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/TestingRunClassManualTab.class.uniqueId0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/compileTransaction/stash-dir/TestingRunClassSecond.class.uniqueId1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestingPackage/TestingRunClassManualTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestingPackage/TestingRunClassManualTab.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,22 +208,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="548" y="164" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1727782372749" />
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1727979228989">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom" timestamp="1728045588823">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1727979228989" />
-    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1727979228989">
+    <state width="1493" height="207" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1728045588823" />
+    <state width="1493" height="207" key="GridCell.Tab.0.center" timestamp="1728045588823">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1727979228989" />
-    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1727979228989">
+    <state width="1493" height="207" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1728045588823" />
+    <state width="1493" height="207" key="GridCell.Tab.0.left" timestamp="1728045588823">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1727979228989" />
-    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1727979228989">
+    <state width="1493" height="207" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1728045588823" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right" timestamp="1728045588823">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1727979228989" />
+    <state width="1493" height="207" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1728045588823" />
     <state width="1342" height="239" key="GridCell.Tab.1.bottom" timestamp="1724248552164">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -296,6 +274,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PracticeProject$D__subodh_subodh_Spar_PracticeProject_src_test_java_TestingPackage_testng_xml.ic" NAME="$PROJECT_DIR$/src/test/java/TestingPackage/testng.xml Coverage Results" MODIFIED="1726748383375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/PracticeProject$D__subodh_subodh_Spar_PracticeProject_src_test_resources_testng_xml.ic" NAME="$PROJECT_DIR$/src/test/resources/testng.xml Coverage Results" MODIFIED="1727977188130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/PracticeProject$D__subodh_subodh_Spar_PracticeProject_src_test_resources_testng_xml.ic" NAME="$PROJECT_DIR$/src/test/resources/testng.xml Coverage Results" MODIFIED="1728043297894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
