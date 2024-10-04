@@ -1,5 +1,5 @@
 # Step 1: Use a base image for building the app
-FROM openjdk:21-jdk-slim AS builder
+FROM openjdk:21-slim AS builder
 
 # Step 2: Install Gradle
 RUN apt-get update && apt-get install -y wget unzip && \
