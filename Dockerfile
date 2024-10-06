@@ -12,7 +12,7 @@ COPY gradle gradle
 COPY src src
 
 # Copy the testng.xml configuration file
-COPY testng.xml ./
+COPY src/test/resources/testng.xml src/test/resources/
 
 # Run Gradle to build the application
 RUN ./gradlew build
