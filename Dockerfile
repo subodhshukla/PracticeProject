@@ -21,7 +21,7 @@ COPY src src/
 COPY src/test/resources/testng.xml src/test/resources/
 
 # Run Gradle to build the application
-RUN ./gradlew.bat build --no-daemon
+RUN bat gradlew.bat build --no-daemon
 
 # Set the command to run your tests
 CMD ["java", "-cp", "build/classes/java/test:build/libs/*:src/test/resources/", "org.testng.TestNG", "src/test/resources/testng.xml"]
