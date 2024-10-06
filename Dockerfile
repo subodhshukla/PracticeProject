@@ -20,8 +20,11 @@ COPY src src/
 # Copy the testng.xml configuration file from the resources folder
 COPY src/test/resources/testng.xml src/test/resources/
 
+# Debug: List files and their permissions
+RUN ls -l
+
 # Run Gradle to build the application
-RUN bat gradlew.bat build --no-daemon
+RUN ./gradlew build --no-daemon
 
 # Set the command to run your tests
 CMD ["java", "-cp", "build/classes/java/test:build/libs/*:src/test/resources/", "org.testng.TestNG", "src/test/resources/testng.xml"]
