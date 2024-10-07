@@ -3,13 +3,19 @@ FROM openjdk:21-slim
 
 # Set the working directory in the container
 WORKDIR /app
+
+# Install dependencies
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends wget unzip && \
+    rm -rf /var/lib/apt/lists/*
+
 # Install Gradle
-RUN apt-get update && apt-get install -y wget && \
-    wget https://downloads.gradle-dn.com/distributions/gradle-8.3-bin.zip && \
+RUN wget https://downloads.gradle-dn.com/distributions/gradle-8.3-bin.zip && \
     unzip gradle-8.3-bin.zip && \
     mv gradle-8.3 /opt/gradle && \
     ln -s /opt/gradle/bin/gradle /usr/bin/gradle && \
     rm gradle-8.3-bin.zip
+
 # Copy the Gradle wrapper script and make it executable
 COPY gradlew ./
 COPY gradle/ gradle/
