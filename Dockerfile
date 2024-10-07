@@ -9,8 +9,10 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends wget unzip && \
     rm -rf /var/lib/apt/lists/*
 
-# Download and install Gradle
-RUN wget -q https://downloads.gradle-dn.com/distributions/gradle-8.3-bin.zip && \
+# Download Gradle
+RUN echo "Downloading Gradle..." && \
+    wget https://downloads.gradle-dn.com/distributions/gradle-8.3-bin.zip && \
+    echo "Unzipping Gradle..." && \
     unzip gradle-8.3-bin.zip && \
     mv gradle-8.3 /opt/gradle && \
     ln -s /opt/gradle/bin/gradle /usr/bin/gradle && \
