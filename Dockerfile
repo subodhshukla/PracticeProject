@@ -16,7 +16,8 @@ RUN wget https://services.gradle.org/distributions/gradle-8.3-bin.zip && \
 
 # Copy your application code
 COPY . .
-
+# Make the Gradle wrapper executable
+RUN chmod +x gradlew
 # Build the application
 RUN ./gradlew build --no-daemon
 
