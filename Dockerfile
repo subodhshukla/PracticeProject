@@ -24,7 +24,7 @@ COPY src/test/resources/testng.xml src/test/resources/
 RUN ls -l
 
 # Run Gradle to build the application
-RUN ./gradlew build --no-daemon
+RUN sh gradlew build --no-daemon
 
 # Set the command to run your tests
 CMD ["java", "-cp", "build/classes/java/test:build/libs/*:src/test/resources/", "org.testng.TestNG", "src/test/resources/testng.xml"]
