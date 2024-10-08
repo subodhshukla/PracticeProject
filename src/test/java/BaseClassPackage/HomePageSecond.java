@@ -29,13 +29,15 @@ public class HomePageSecond extends BaseClass {
         if(driver == null) {
             if (Browser.contains("Chrome")){
                 //***Below statement used instead of "System.setProperty()"
+                ChromeOptions options = new ChromeOptions();
+                options.addArguments("--headless");
                  WebDriverManager.chromedriver().setup();
-                 driver=new ChromeDriver();
+                 driver=new ChromeDriver(options);
                 //action = new Actions(driver);
                 driver.manage().window().maximize();
                 driver.manage().deleteAllCookies();
-                driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-                //driver.manage().timeouts().getPageLoadTimeout();
+                driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(60));
+                driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
             }
             if (Browser.contains("firefox")) {
                 //***Below statement used instead of "System.setProperty()"

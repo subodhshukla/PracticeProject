@@ -22,8 +22,10 @@ public class TestingRunClassManualTab {
     }
     @Test(priority = 1)
     public void GoToManualTestingMenuItem() throws IOException, InterruptedException {
-        mp.navigateToManualMenu();
-        mp.navigateToSubMenu_WhatIsManualTesting();
+
+            mp.navigateToManualMenu();
+            mp.navigateToSubMenu_WhatIsManualTesting();
+
     }
   /*  @Test(priority = 2)
     public void verifyManualTabLink() throws IOException, InterruptedException {
