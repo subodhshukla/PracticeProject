@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4fdc065-a229-433d-a984-84188103449d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BaseClassPackage/HomePageSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BaseClassPackage/HomePageSecond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestingPackage/TestingRunClassManualTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestingPackage/TestingRunClassManualTab.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

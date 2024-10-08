@@ -24,5 +24,8 @@ RUN chmod +x gradlew && ls -l gradlew
 
 # Build the application
 RUN ./gradlew build --no-daemon -x test
+
+# Optionally, you can still run tests if needed after building
+RUN ./gradlew test
 # Set the command to run your tests
 CMD ["java", "-cp", "build/classes/java/test:build/libs/*:src/test/resources/", "org.testng.TestNG", "src/test/resources/testng.xml"]
