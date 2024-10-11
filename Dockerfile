@@ -26,7 +26,7 @@ RUN chmod +x gradlew && ls -l gradlew
 RUN ./gradlew build --no-daemon -x test
 
 # Optionally, you can still run tests if needed after building
-RUN ./gradlew test --info
+RUN ./gradlew test --scan
 
 RUN cp -r build/reports/tests/test /app/test-reports
 # Set the command to run your tests
