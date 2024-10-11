@@ -20,12 +20,12 @@ RUN wget https://services.gradle.org/distributions/gradle-8.3-bin.zip && \
 COPY . ./
 
 # Ensure gradlew is executable
-RUN chmod +x gradlew && ls -l gradlew
+RUN chmod +x gradlew.bat && ls -l gradlew.bat
 
 # Build the application
-RUN ./gradlew build --no-daemon -x test
+RUN ./gradlew.bat build --no-daemon -x test
 
 # Optionally, you can still run tests if needed after building
-RUN ./gradlew test
+RUN ./gradlew.bat test
 # Set the command to run your tests
 CMD ["java", "-cp", "build/classes/java/test:build/libs/*:src/test/resources/", "org.testng.TestNG", "src/test/resources/testng.xml"]
