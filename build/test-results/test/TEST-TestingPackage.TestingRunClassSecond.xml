@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestingPackage.TestingRunClassSecond" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-10-03T17:42:18" hostname="DESKTOP-42KN1G2" time="4.549">
+<testsuite name="TestingPackage.TestingRunClassSecond" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-10-11T13:00:15" hostname="DESKTOP-42KN1G2" time="4.581">
   <properties/>
-  <testcase name="enterDetails[0](Tester1, #50)" classname="TestingPackage.TestingRunClassSecond" time="1.136"/>
-  <testcase name="enterDetails[1](Tester2, #45)" classname="TestingPackage.TestingRunClassSecond" time="1.108"/>
-  <testcase name="enterDetails[2](Tester3, #55)" classname="TestingPackage.TestingRunClassSecond" time="1.092"/>
-  <testcase name="enterDetails[3](Tester4, #60)" classname="TestingPackage.TestingRunClassSecond" time="1.097"/>
-  <testcase name="selectYourGenderAndTestingType" classname="TestingPackage.TestingRunClassSecond" time="0.065"/>
-  <testcase name="manageAlertPupupWindow" classname="TestingPackage.TestingRunClassSecond" time="0.049"/>
+  <testcase name="enterDetails[0](Tester1, #50)" classname="TestingPackage.TestingRunClassSecond" time="1.134"/>
+  <testcase name="enterDetails[1](Tester2, #45)" classname="TestingPackage.TestingRunClassSecond" time="1.103"/>
+  <testcase name="enterDetails[2](Tester3, #55)" classname="TestingPackage.TestingRunClassSecond" time="1.1"/>
+  <testcase name="enterDetails[3](Tester4, #60)" classname="TestingPackage.TestingRunClassSecond" time="1.128"/>
+  <testcase name="selectYourGenderAndTestingType" classname="TestingPackage.TestingRunClassSecond" time="0.066"/>
+  <testcase name="manageAlertPupupWindow" classname="TestingPackage.TestingRunClassSecond" time="0.05"/>
   <system-out><![CDATA[Page Title :Sample Webpage for Selenium Automation Practice | ArtOfTesting
 This is executed before Class
 *****Test Started : enterDetails
@@ -25,7 +25,5 @@ This is executed before Class
   <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
 SLF4J(W): Defaulting to no-operation (NOP) logger implementation
 SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
-Oct 03, 2024 11:12:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
-WARNING: Unable to find an exact match for CDP version 129, returning the closest version; found: 125; Please update to a Selenium version that supports CDP version 129
 ]]></system-err>
 </testsuite>
